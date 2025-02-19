@@ -1,4 +1,4 @@
-### Steps: AWS Secrets Manager
+### 2. Steps: AWS Secrets Manager
 
 1. Login `AWS Console`
 2. Go to `AWS Secrets Manager`
