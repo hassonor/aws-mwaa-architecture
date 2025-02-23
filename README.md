@@ -91,3 +91,4 @@ If the credentials are set up correctly, this should list available S3 buckets.
 2. Follow the steps on `docs/AWS_CONSOLE_STEPS_1`
 3. Follow the steps on `docs/GITHUB_STEPS`
 4. Follow the steps on `docs/AWS_CONSOLE_STEPS_2`
+5. Run Dags On `Airflow UI`  (Get the link from AWS console)
