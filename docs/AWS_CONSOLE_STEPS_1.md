@@ -20,3 +20,4 @@
 11. Press `Next`
 12. Press `Next`
 13. Press `Store`
+14. Create S3 Bucket with the name `dml-youtube-prod` and sub-folder with the name `project1`

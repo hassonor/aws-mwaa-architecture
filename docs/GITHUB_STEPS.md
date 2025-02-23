@@ -9,3 +9,4 @@
 7. Click `Create new Repository Secret`
     * Add `Name` ->  `AWS_SECRET_ACCESS_KEY`
     * Add `Secret` -> `[YourSecretAcessKey]`
+8. Commit and Deploy with GitHub Actions (commit + push)
