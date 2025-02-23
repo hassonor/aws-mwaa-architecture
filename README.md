@@ -89,4 +89,4 @@ If the credentials are set up correctly, this should list available S3 buckets.
 
 1. Follow the steps on `docs/README_CONFLUENT_CLOUD_STEPS.md`
 2. Follow the steps on `docs/README_AWS_CONSOLE_STEPS`
-   ]
+3. Follow the steps on `docs/README_GITHUB`
